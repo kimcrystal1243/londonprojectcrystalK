@@ -1,0 +1,104 @@
+body {
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background: linear-gradient(#fefae0,#fff3b0,#dda15e);
+    color: #4f772d;
+}
+
+#info {
+    background: #ecf39e;
+    padding: 5px 10px;
+    border-radius: 100px;
+    margin: 5px 0 10px 0;
+    
+}
+#location{
+     margin: 0;
+    background: #e9edc9;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+#town-img {
+    width: 250px;
+    border: 6px solid #31572c;
+}
+
+#tea {
+    background: #ecf39e;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin: 5px 1 10px 0;
+}
+
+#bigben {
+    background: #ecf39e;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin: 5px 0 10px 0;
+}
+
+#londoneye{
+    background: #ecf39e;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin: 5px 0 10px 0;
+}
+
+#museum {
+    background: #ecf39e;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin: 5px 0 10px 0;
+}
+
+#teashop-img {
+    width: 250px;
+    border: 6px solid #31572c;
+}
+
+#bigben-img {
+    width: 250px;
+    border: 6px solid #31572c;
+}
+
+#londoneye-img {
+    width: 250px;
+    border: 6px solid #31572c;
+}
+
+#museum-img {
+    width: 250px;
+    border: 6px solid #31572c;
+}
+
+#museum2-img {
+    width: 250px;
+    border: 6px solid #31572c;
+}
+
+#towerbridge-img {
+    width: 250px;
+    border: 6px solid #31572c;
+}
+
+#img{
+    width: 250px;
+    border: 6px solid #31572c
+}
+
+*{
+    box-sizing: border-box;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px; 
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  }
+  
